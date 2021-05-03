@@ -2,7 +2,7 @@
 ### Links
 * [paper](https://arxiv.org/abs/2002.05709)
 * [nice video](https://www.youtube.com/watch?v=APki8LmdJwY)
-
+* [short video](https://www.youtube.com/watch?v=YZgeWsuyRH8)
 ### Formal definition
 ![image](https://user-images.githubusercontent.com/58084279/116859790-3ba0a900-ac09-11eb-9ff6-cba2cc9fcba7.png)
 
